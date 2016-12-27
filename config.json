@@ -1,0 +1,6 @@
+{
+    "STORAGE_NAME": "patrondetailsdev",
+    "STORAGE_KEY": "n7mxG0NSzRA09W7jVC5ldLBWhNP0DdW9Vgum/rsIdlBqrsw3SbEM6zfncEcsYOGBoD+Rs4sS3UOzPXNPFvqrYA==",
+    "PARTITION_KEY": "unifiedpatron",
+    "TABLE_NAME": "patrondetails"
+}

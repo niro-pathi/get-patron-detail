@@ -1,0 +1,29 @@
+{
+  "name": "get-patron-detail",
+  "version": "1.0.0",
+  "description": "This service is to manage patron detail GET calls",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niro-pathi/get-patron-detail.git"
+  },
+  "author": "Niro Pathirana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niro-pathi/get-patron-detail/issues"
+  },
+  "homepage": "https://github.com/niro-pathi/get-patron-detail#readme",
+  "dependencies": {
+    "azure": "^1.2.0-preview",
+    "azure-gallery": "^2.0.0-pre.20",
+    "azure-mgmt-resource": "^2.0.0-pre.17",
+    "hapi": "^16.0.2",
+    "joi": "^10.1.0",
+    "nconf": "^0.8.4",
+    "node-uuid": "^1.4.7",
+    "underscore": "^1.8.3"
+  }
+}
